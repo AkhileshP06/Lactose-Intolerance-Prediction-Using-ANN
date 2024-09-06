@@ -1,9 +1,5 @@
 
 ### Lactose Intolerance Prediction Using Artificial Neural Networks
-
-This repository contains compilation of my solutions for various LeetCode questions. I use LeetCode as a platform to practice Data Structures and Algorithms  and I document my solutions here for reference.
-
-
 ## Project Overview
 This project was developed as a requirement for the course __21 BIO 201 Intelligence of Biological Systems 2__  at Amrita School of Engineering, Bangalore. The goal of this project is to predict lactose intolerance using an artificial neural network (ANN) by analyzing the LCT gene's nucleotide sequences.
 ## Abstract
