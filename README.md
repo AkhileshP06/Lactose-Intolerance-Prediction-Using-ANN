@@ -1,7 +1,7 @@
 
 ### Lactose Intolerance Prediction Using Artificial Neural Networks
 ## Project Overview
-This project was developed as a requirement for the course __21 BIO 201 Intelligence of Biological Systems 2__  at Amrita School of Engineering, Bangalore. The goal of this project is to predict lactose intolerance using an artificial neural network (ANN) by analyzing the LCT gene's nucleotide sequences.
+This project was developed as a requirement for the course __21 BIO 201 Intelligence of Biological Systems 3__  at Amrita School of Engineering, Bangalore. The goal of this project is to predict lactose intolerance using an artificial neural network (ANN) by analyzing the LCT gene's nucleotide sequences.
 ## Abstract
 
 The project presents an artificial neural network model that predicts lactose intolerance. The input consists of nucleotide sequences of the LCT gene, which are key indicators of lactose tolerance/intolerance. The ANN model is designed to assist specialists in predicting lactose intolerance, reducing the time required for diagnosis.
